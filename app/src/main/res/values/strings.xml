@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Semovi02</string>
+    <string name="tvNameMessage">¿Cuál es tu nombre?</string>
+    <string name="btnSayHello">Saludar</string>
+    <string name="msgSayHello">Hola!!! XD</string>
+    <string name="placeholderName">Tu nombre aquí</string>
+</resources>
